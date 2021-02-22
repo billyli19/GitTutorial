@@ -1,0 +1,21 @@
+* {
+    /* styling for all content */
+    margin: 50px;
+}
+#box1 {
+    /* styling for box 1 */
+    border-style: dotted;
+    border-color: red;
+}
+
+#box2 {
+    /* styling for box 2 */
+    border-style: dotted;
+    border-color: green;
+}
+
+#box3 {
+    /* styling for box 3 */
+    border-style: dotted;
+    border-color: blue;
+}
